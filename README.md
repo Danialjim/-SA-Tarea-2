@@ -12,6 +12,7 @@ Tarea 2 del laboratorio de SA
 - Recepcion de solicitud y aviso al piloto
 - Rastreo de ubicacion del carro por parte de la administracion.
 
-Ubicacion de servicios:
+Ubicacion de servicios:'
 
+Recepcion de solicitud: ServiciosWeb/ServicioDePiloto/Controllers/RecepcionSolicitudController.cs
 Asignacion de piloto: ServiciosWeb/ServicioDePiloto/Controllers/AsignacionPilotoController.cs
