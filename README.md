@@ -1,6 +1,10 @@
 # -SA-Tarea-2
 Tarea 2 del laboratorio de SA
 
+Datos: 
+201313982
+Carlos Daniel Alonzo Jimenez
+
 2 Aplicaciones:
 - Cliente que requiere servicio de Uber
 - Piloto de vehiculo de Uber
@@ -18,3 +22,5 @@ Recepcion de solicitud: ServiciosWeb/ServicioDePiloto/Controllers/RecepcionSolic
 Solicitud de servicio: ServiciosWeb/ServiciosWeb.WebApi/Controllers/SolicitudDeServicioController.cs
 Asignacion de piloto: ServiciosWeb/ServicioDePiloto/Controllers/AsignacionPilotoController.cs
 Ubicacion del carro: ServiciosWeb/ServicioDeUbicacion.WebApi/Controllers/UbicacionCarroController.cs
+
+La documentacion interna se encuenta en cada una de las carpetas de los servicios.
