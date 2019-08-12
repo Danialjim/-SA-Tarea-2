@@ -1,0 +1,12 @@
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\bin\Debug\Tarea 2.exe.config
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\bin\Debug\Tarea 2.exe
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\bin\Debug\Tarea 2.pdb
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea 2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea_2.Form1.resources
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea_2.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea_2.RealizacionDeOperaciones.resources
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea 2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea 2.exe
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea 2.pdb
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea_2.AplicacionPiloto.resources
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\Tarea 2\obj\Debug\Tarea_2.INICIO.resources

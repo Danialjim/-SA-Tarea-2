@@ -1,0 +1,4 @@
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.pdb
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.dll
+C:\Users\Daniel\Dropbox\SA\Laboratorio\Tarea 2\ServiciosWeb\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.pdb
