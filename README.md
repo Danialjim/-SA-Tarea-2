@@ -16,3 +16,4 @@ Ubicacion de servicios:'
 
 Recepcion de solicitud: ServiciosWeb/ServicioDePiloto/Controllers/RecepcionSolicitudController.cs
 Asignacion de piloto: ServiciosWeb/ServicioDePiloto/Controllers/AsignacionPilotoController.cs
+Ubicacion del carro: ServiciosWeb/ServicioDeUbicacion.WebApi/Controllers/UbicacionCarroController.cs
