@@ -11,3 +11,7 @@ Tarea 2 del laboratorio de SA
 - Solicitud de servicio de Uber
 - Recepcion de solicitud y aviso al piloto
 - Rastreo de ubicacion del carro por parte de la administracion.
+
+Ubicacion de servicios:
+
+Asignacion de piloto: ServiciosWeb/ServicioDePiloto/Controllers/AsignacionPilotoController.cs
